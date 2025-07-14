@@ -25,7 +25,7 @@ If you want to have a clear series definition then the script looks at the serie
 					03 - Second Foundation
 					
 
-##Usage
+## Usage
 
 The script requires two custom columns in calibre. By default these should be 'collections' and 'processed' but you can name them anything as long as you update the definition at the top of the script. 
 
@@ -34,7 +34,7 @@ The other thing is to put in the path name of the directory that holds the calib
 Then just run the script. It takes about 1 second per book on the first run through. Subsequent runs, for picking up new entries, are about twice as fast for existing items.
 
 
-##Limitations
+## Limitations
 
 This has only been tested on a Mint Linux machine as I don't have a windows box with Calibre on it.
 
