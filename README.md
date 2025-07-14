@@ -24,6 +24,7 @@ If you want to have a clear series definition then the script looks at the serie
 					02 - Foundation and Empire
 					03 - Second Foundation
 					
+
 ##Usage
 
 The script requires two custom columns in calibre. By default these should be 'collections' and 'processed' but you can name them anything as long as you update the definition at the top of the script. 
@@ -31,6 +32,7 @@ The script requires two custom columns in calibre. By default these should be 'c
 The other thing is to put in the path name of the directory that holds the calibre library. Again this is at the top of the script.
 
 Then just run the script. It takes about 1 second per book on the first run through. Subsequent runs, for picking up new entries, are about twice as fast for existing items.
+
 
 ##Limitations
 
